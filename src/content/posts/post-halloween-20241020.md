@@ -18,10 +18,10 @@ Morton, Lisa. 2012. Trick or Treat : A History of Halloween. London: Reaktion 
 
 ## Images
 
-| ![Pumpkin Jack-o'-lantern](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png) | ![Haunted House](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00157_.png) | ![Graveyard with Grim Reaper](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00159_.png) |
+| [![Pumpkin Jack-o'-lantern](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png) | [![Haunted House](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00157_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00157_.png) | [![Graveyard with Grim Reaper](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00159_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00159_.png) |
 |-----------------------|-----------------------|-----------------------|
-| ![Image4](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00161_.png) | ![Spooky Castle with Bats](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00162_.png) | ![Pumpkin-headed Scarecrow](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00163_.png) |
-| ![Howling Wolf and Full Moon](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00171_.png) | ![Pumpkin Patch at Twilight](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00222_.png) |
+| [![Image4](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00161_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00161_.png) | [![Spooky Castle with Bats](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00162_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00162_.png) | [![Pumpkin-headed Scarecrow](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00163_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00163_.png) |
+| [![Howling Wolf and Full Moon](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00171_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00171_.png) | [![Pumpkin Patch at Twilight](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00222_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00222_.png) |
 
 ## Description
 

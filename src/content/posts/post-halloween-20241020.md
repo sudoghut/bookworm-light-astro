@@ -5,7 +5,7 @@ date: 2024-10-20T15:03:00-04:00
 image: "https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png"
 categories: ["Halloween"]
 authors: ["Imghorce Oopus"]
-tags: [Halloween, pumpkins, Spooky, Horror, Haunted, Jack-o'-lantern, Werewolf, Gothic, Grim Reaper, Full Moon]
+tags: [Halloween, pumpkins, spooky, horror, haunted, Jack-o'-lantern, werewolf, gothic, Grim Reaper, full moon, glowing pumpkin, scary face, candles, autumn leaves, spooky decoration, haunted mansion, spooky house, foggy night, eerie atmosphere, graveyard, foggy cemetery, dark atmosphere, tombstones, witch, cauldron, potion, magic, fantasy, lightning, bats flying, dark sky, eerie castle, scarecrow, pumpkin head, sunset, field, crows, night sky, howling wolf, twilight, autumn]
 draft: false
 ---
 
@@ -18,10 +18,10 @@ Morton, Lisa. 2012. Trick or Treat : A History of Halloween. London: Reaktion 
 
 ## Images
 
-| [![Pumpkin Jack-o'-lantern](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png) | [![Haunted House](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00157_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00157_.png) | [![Graveyard with Grim Reaper](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00159_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00159_.png) |
+| [![Pumpkin Jack-o'-lantern](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Jack-o-lantern.png)](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Jack-o-lantern.png) | [![Haunted House](https://oopus.info/imghorce/halloween-20241020/Haunted-House.png)](https://oopus.info/imghorce/halloween-20241020/Haunted-House.png) | [![Graveyard with Grim Reaper](https://oopus.info/imghorce/halloween-20241020/Graveyard-with-Grim-Reaper.png)](https://oopus.info/imghorce/halloween-20241020/Graveyard-with-Grim-Reaper.png) |
 |-----------------------|-----------------------|-----------------------|
-| [![Image4](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00161_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00161_.png) | [![Spooky Castle with Bats](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00162_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00162_.png) | [![Pumpkin-headed Scarecrow](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00163_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00163_.png) |
-| [![Howling Wolf and Full Moon](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00171_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00171_.png) | [![Pumpkin Patch at Twilight](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00222_.png)](https://oopus.info/imghorce/halloween-20241020/ComfyUI_00222_.png) |
+| [![Wicked Witch Brewing a Potion](https://oopus.info/imghorce/halloween-20241020/Wicked-Witch-Brewing-a-Potion.png)](https://oopus.info/imghorce/halloween-20241020/Wicked-Witch-Brewing-a-Potion.png) | [![Spooky Castle with Bats](https://oopus.info/imghorce/halloween-20241020/Spooky-Castle-with-Bats.png)](https://oopus.info/imghorce/halloween-20241020/Spooky-Castle-with-Bats.png) | [![Pumpkin-headed Scarecrow](https://oopus.info/imghorce/halloween-20241020/Pumpkin-headed-Scarecrow.png)](https://oopus.info/imghorce/halloween-20241020/Pumpkin-headed-Scarecrow.png) |
+| [![Howling Wolf and Full Moon](https://oopus.info/imghorce/halloween-20241020/Howling-Wolf-and-Full-Moon.png)](https://oopus.info/imghorce/halloween-20241020/Howling-Wolf-and-Full-Moon.png) | [![Pumpkin Patch at Twilight](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Patch-at-Twilight.png)](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Patch-at-Twilight.png) |
 
 ## Description
 

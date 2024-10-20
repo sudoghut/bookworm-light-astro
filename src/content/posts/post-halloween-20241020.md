@@ -2,7 +2,7 @@
 title: "Halloween"
 description: "meta description"
 date: 2024-10-20T15:03:00-04:00
-image: "https://oopus.info/imghorce/halloween-20241020/ComfyUI_00160_.png"
+image: "https://oopus.info/imghorce/halloween-20241020/Pumpkin-Jack-o-lantern.png"
 categories: ["Halloween"]
 authors: ["Imghorce Oopus"]
 tags: [Halloween, pumpkins, spooky, horror, haunted, Jack-o'-lantern, werewolf, gothic, Grim Reaper, full moon, glowing pumpkin, scary face, candles, autumn leaves, spooky decoration, haunted mansion, spooky house, foggy night, eerie atmosphere, graveyard, foggy cemetery, dark atmosphere, tombstones, witch, cauldron, potion, magic, fantasy, lightning, bats flying, dark sky, eerie castle, scarecrow, pumpkin head, sunset, field, crows, night sky, howling wolf, twilight, autumn]

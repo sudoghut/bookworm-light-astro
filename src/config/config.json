@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Imghorce",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "https://imghorce.oopus.info",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",

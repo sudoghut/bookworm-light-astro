@@ -11,6 +11,7 @@ export interface TAuthor {
       facebook: string;
       twitter: string;
       instagram: string;
+      github: string;
     }
   };
   render: () => Promise<{ Content: any }>;

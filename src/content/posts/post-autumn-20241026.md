@@ -1,7 +1,7 @@
 ---
 title: "Embracing Autumn"
 description: "meta description"
-date: 2024-10-20T15:03:00-04:00
+date: 2024-10-27T15:17:40-04:00
 image: "https://oopus.info/imghorce/autumn-20241026/Impressionist-Autumn-River.png"
 categories: ["Autumn"]
 authors: ["Imghorce Oopus"]

@@ -1,0 +1,1 @@
+Generate a new title based on the given image and five most important tags. Return the result in the following JSON format: {"<generated title>": ["tag1", "tag2", "tag3", "tag4", "tag5"]}. Replace <generated title> with the actual generated title. Only return the JSON output without additional text or formatting.

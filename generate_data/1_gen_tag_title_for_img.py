@@ -12,6 +12,7 @@ CONFIG_FILE = os.path.join(os.getcwd(), "generate_data", "data_config.csv")
 INTRO_FILE = os.path.join(os.getcwd(), "generate_data", "data_intro.md")
 API_KEY_FILE = os.path.join(os.getcwd(), "generate_data", "api_key.txt")
 PROMPT_FILE = os.path.join(os.getcwd(), "generate_data", "data_prompt.md")
+LOCAL_TITLE_TAGS_JSON_FILE = os.path.join(os.getcwd(), "generate_data", "data_new_title_and_tags.json")
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -63,7 +64,7 @@ print(image_name_list)
 # image_name_list = image_name_list[:2]
 
 # Get image title and tags
-def get_image_title_and_tags(image_name):
+def get_image_title_and_tags_by_groq(image_name):
     image_url = INPUT_IMG_URL.replace("list_image_files.php", "") + image_name
     completion = CLIENT.chat.completions.create(
         model="llama-3.2-11b-vision-preview",
@@ -88,7 +89,7 @@ def get_image_title_and_tags(image_name):
                 "content": ""
             }
         ],
-        temperature=1,
+        temperature=0.1,
         max_tokens=256,
         top_p=1,
         stream=False,
@@ -100,21 +101,34 @@ def get_image_title_and_tags(image_name):
         output_text = output_text[:-1]
     print(output_text)
     return json.loads(output_text)
-    
+
+def get_image_title_and_tags_by_local(image_name):
+    return {
+        "title": "title",
+        "tags": ["tag1", "tag2"]
+    }
 
 image_name_content_dict = {}
 tag_list = []
-for image_name in image_name_list:
-    print(image_name)
-    image_generated_dic = get_image_title_and_tags(image_name)
-    # create image_new_name and image_content from image_generated_dic
-    image_new_name = ""
-    image_content = ""
-    for idx, val in image_generated_dic.items():
-        image_new_name = idx.replace(" ", "-") + "." + image_name.split(".")[1]
-        image_content = val
-        tag_list += val
-    image_name_content_dict[image_name] = {image_new_name: image_content}
+
+if config["offline-title-tags-json"] == "True":
+    with open(LOCAL_TITLE_TAGS_JSON_FILE, "r", encoding="utf-8") as f:
+        image_name_content_dict = json.load(f)
+        for image_name, content in image_name_content_dict.items():
+            image_new_name, image_tag_list = list(content.items())[0]
+            tag_list += image_tag_list
+else:
+    for image_name in image_name_list:
+        print(image_name)
+        image_generated_dic = get_image_title_and_tags_by_groq(image_name)
+        # create image_new_name and image_content from image_generated_dic
+        image_new_name = ""
+        image_content = ""
+        for idx, val in image_generated_dic.items():
+            image_new_name = idx.replace(" ", "-") + "." + image_name.split(".")[1]
+            image_content = val
+            tag_list += val
+        image_name_content_dict[image_name] = {image_new_name: image_content}
 tag_list = list(set(tag_list))
 tag_text = ", ".join(tag_list)
 

@@ -1,0 +1,14 @@
+{
+  "ComfyUI_00245_.png": {
+    "abstract-brushstrokes.png": ["abstract", "brushstrokes", "minimalist", "red-and-pink", "modern-art"]
+  },
+  "ComfyUI_00239_.png": {
+    "tranquil-water.png": ["water", "sunset", "calm", "reflection", "serene"]
+  },
+  "ComfyUI_00240_.png": {
+    "ripped-paper.png": ["paper", "tear", "red", "minimalism", "contrast"]
+  },
+  "ComfyUI_00241_.png": {
+    "soft-clouds.png": ["clouds", "soft", "atmospheric", "dreamy", "overcast"]
+  }
+}

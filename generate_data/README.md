@@ -2,7 +2,9 @@
 
 ## Step 1
 
-Create introduction, and put it into data_intro.md
+Create introduction, and put it into data_intro.md.
+
+Don't forget to update `title` and `category`
 
 ## Step 2
 
@@ -23,3 +25,20 @@ Decide whether you want to get new titles and tags from GPT or Groq
 ### If Groq
 
 Set offline-title-tags-json from data_config.csv as False
+
+## Step 4
+
+upload images to imghorce/_working/
+
+
+## Step 5
+
+Run 1_gen_tag_title_for_img.py from bookworm-light-astro folder
+
+## Step 6
+
+Run 2_copy_data.py from bookworm-light-astro folder
+
+## Step 7
+
+Upload images to imghorce/

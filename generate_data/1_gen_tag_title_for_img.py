@@ -180,6 +180,8 @@ for image_name, content in image_name_content_dict.items():
 
 **{image_new_name}**: {tag_text}.
 
+---
+
 '''
     # Save image
     response = requests.get(image_download_url, headers=HEADERS)

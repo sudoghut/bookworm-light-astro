@@ -130,7 +130,8 @@ else:
             tag_list += val
         image_name_content_dict[image_name] = {image_new_name: image_content}
 tag_list = list(set(tag_list))
-tag_text = ", ".join(tag_list)
+tag_text = ", ".join([f'"{tag}"' if tag.isnumeric() else tag for tag in tag_list])
+
 
 # Save file:
 # 1. Save image with new name

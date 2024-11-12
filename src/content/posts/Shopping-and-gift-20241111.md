@@ -5,7 +5,7 @@ date: 2024-11-11T20:59:23-05:00
 image: "https://oopus.info/imghorce/Shopping-and-gift-20241111/Christmas-Decorations.png"
 categories: ["Holiday & Seasonal Décor"]
 authors: ["Imghorce Oopus"]
-tags: [Discounts, christmas, 2025, Sale, Decorations, Festive, 3d, Gift, white, new year, Shopping, Winter, Christmas, Holiday]
+tags: [Discounts, christmas, "2025", Sale, Decorations, Festive, 3d, Gift, white, new year, Shopping, Winter, Christmas, Holiday]
 draft: false
 ---
 

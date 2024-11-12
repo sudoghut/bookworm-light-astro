@@ -47,38 +47,58 @@ Autumn reminds us that change, while inevitable, can be beautiful and profound. 
 
 **Autumn-Picnic-by-the-Lake**: autumn, picnic, lake, apples, basket, nature, serenity, foliage.  
 
+---
+
 [![Deer-in-a-Golden-Forest](https://oopus.info/imghorce/autumn-20241026/Deer-in-a-Golden-Forest.png)](https://oopus.info/imghorce/autumn-20241026/Deer-in-a-Golden-Forest.png)  
 
 **Deer-in-a-Golden-Forest**: deer, forest, golden leaves, autumn, nature, silhouette, peaceful, sunlit.  
+
+---
 
 [![Miniature-Cabin-by-the-Lake](https://oopus.info/imghorce/autumn-20241026/Miniature-Cabin-by-the-Lake.png)](https://oopus.info/imghorce/autumn-20241026/Miniature-Cabin-by-the-Lake.png)  
 
 **Miniature-Cabin-by-the-Lake**: autumn, cabin, miniature, lake, ducks, fall colors, peaceful, nature.  
 
+---
+
 [![Pumpkin-Harvest-at-Sunset](https://oopus.info/imghorce/autumn-20241026/Pumpkin-Harvest-at-Sunset.png)](https://oopus.info/imghorce/autumn-20241026/Pumpkin-Harvest-at-Sunset.png)  
 
 **Pumpkin-Harvest-at-Sunset**: pumpkin patch, sunset, harvest, farmer, autumn, field, rural, countryside.  
+
+---
 
 [![Paper-Art-Mountain-Scene](https://oopus.info/imghorce/autumn-20241026/Paper-Art-Mountain-Scene.png)](https://oopus.info/imghorce/autumn-20241026/Paper-Art-Mountain-Scene.png)  
 
 **Paper-Art-Mountain-Scene**: paper art, mountains, autumn, sun, trees, handcrafted, 3D, vibrant.  
 
+---
+
 [![Foggy-Mountain-Landscape](https://oopus.info/imghorce/autumn-20241026/Foggy-Mountain-Landscape.png)](https://oopus.info/imghorce/autumn-20241026/Foggy-Mountain-Landscape.png)  
 
 **Foggy-Mountain-Landscape**: fog, mountains, landscape, birds, mist, nature, serenity, minimalism.  
+
+---
 
 [![Whimsical-Halloween-Night](https://oopus.info/imghorce/autumn-20241026/Whimsical-Halloween-Night.png)](https://oopus.info/imghorce/autumn-20241026/Whimsical-Halloween-Night.png)  
 
 **Whimsical-Halloween-Night**: Halloween, night, children, pumpkins, stars, autumn, moon, neighborhood.  
 
+---
+
 [![Impressionist-Autumn-River](https://oopus.info/imghorce/autumn-20241026/Impressionist-Autumn-River.png)](https://oopus.info/imghorce/autumn-20241026/Impressionist-Autumn-River.png)  
 
 **Impressionist-Autumn-River**: autumn, river, bridge, impressionism, trees, reflections, nature, painting.  
+
+---
 
 [![Autumn-in-the-City](https://oopus.info/imghorce/autumn-20241026/Autumn-in-the-City.png)](https://oopus.info/imghorce/autumn-20241026/Autumn-in-the-City.png)  
 
 **Autumn-in-the-City**: cityscape, autumn, street, trees, red leaves, urban, painting, sidewalk.  
 
+---
+
 [![Autumn-Farmer's-Market](https://oopus.info/imghorce/autumn-20241026/Autumn-Farmer's-Market.png)](https://oopus.info/imghorce/autumn-20241026/Autumn-Farmer's-Market.png)  
 
 **Autumn-Farmer's-Market**: farmer's market, pumpkins, produce, autumn, market, harvest, vibrant, outdoors.  
+
+---

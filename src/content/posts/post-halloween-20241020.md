@@ -22,30 +22,46 @@ Morton, Lisa. 2012. Trick or Treat : A History of Halloween. London: Reaktion 
 
 **Pumpkin Jack-o'-lantern**: Halloween, glowing pumpkin, scary face, candles, autumn leaves, spooky decoration.
 
+---
+
  [![Haunted House](https://oopus.info/imghorce/halloween-20241020/Haunted-House.png)](https://oopus.info/imghorce/halloween-20241020/Haunted-House.png)
 
 **Haunted House**: haunted mansion, full moon, spooky house, foggy night, eerie atmosphere, Halloween.
+
+---
 
 [![Graveyard with Grim Reaper](https://oopus.info/imghorce/halloween-20241020/Graveyard-with-Grim-Reaper.png)](https://oopus.info/imghorce/halloween-20241020/Graveyard-with-Grim-Reaper.png)
 
 **Graveyard with Grim Reaper**: graveyard, foggy cemetery, grim reaper, dark atmosphere, Halloween, horror, tombstones.
 
+---
+
  [![Wicked Witch Brewing a Potion](https://oopus.info/imghorce/halloween-20241020/Wicked-Witch-Brewing-a-Potion.png)](https://oopus.info/imghorce/halloween-20241020/Wicked-Witch-Brewing-a-Potion.png)
 
 **Wicked Witch Brewing a Potion**: witch, cauldron, potion, magic, Halloween, spooky, fantasy.
+
+---
 
  [![Spooky Castle with Bats](https://oopus.info/imghorce/halloween-20241020/Spooky-Castle-with-Bats.png)](https://oopus.info/imghorce/halloween-20241020/Spooky-Castle-with-Bats.png)
 
 **Spooky Castle with Bats**: gothic castle, lightning, bats flying, dark sky, eerie castle, Halloween, horror.
 
+---
+
 [![Pumpkin-headed Scarecrow](https://oopus.info/imghorce/halloween-20241020/Pumpkin-headed-Scarecrow.png)](https://oopus.info/imghorce/halloween-20241020/Pumpkin-headed-Scarecrow.png)
 
 **Pumpkin-headed Scarecrow**: scarecrow, pumpkin head, sunset, eerie, field, crows, Halloween, spooky.
+
+---
 
 [![Howling Wolf and Full Moon](https://oopus.info/imghorce/halloween-20241020/Howling-Wolf-and-Full-Moon.png)](https://oopus.info/imghorce/halloween-20241020/Howling-Wolf-and-Full-Moon.png)
 
 **Howling Wolf and Full Moon**: werewolf, full moon, night sky, eerie, howling wolf, Halloween, horror.
 
+---
+
 [![Pumpkin Patch at Twilight](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Patch-at-Twilight.png)](https://oopus.info/imghorce/halloween-20241020/Pumpkin-Patch-at-Twilight.png)
 
 **Pumpkin Patch at Twilight**: pumpkins, Halloween, twilight, jack-o'-lanterns, eerie, autumn.
+
+---
